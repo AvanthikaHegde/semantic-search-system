@@ -1,3 +1,5 @@
+Semantic Search System with Intelligent Cache
+
 **1.Overview:**
 
 This project implements a semantic search system for the 20 Newsgroups dataset. Instead of relying on keyword matching, the system retrieves documents based on the meaning of a query.
